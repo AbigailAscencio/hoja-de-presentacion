@@ -1,0 +1,23 @@
+h1{
+text-align: center;
+font-size: 35px;
+font-family: 'Lucida Handwriting', cursive;
+text-decoration: underline;
+}
+h2{
+text-align: center;
+font-style: oblique;
+}
+body{
+background-color: rgba(119, 0, 255, 0.349);
+font-family: Cambria, serif;
+text-align: justify;
+font-weight: normal;
+font-variant: small-caps;
+}
+h3{
+    font-family:'Monaco' ;
+    font-style: italic;
+    background-image: url("paper.gif");
+
+}
